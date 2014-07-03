@@ -16,7 +16,6 @@ package com.outjected.email.api;
  * Thrown when an email address fails to validate as RFC822
  * 
  * @author Cody Lerum
- * teste
  */
 public class AttachmentException extends MailException
 {
